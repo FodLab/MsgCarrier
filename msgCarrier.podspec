@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "msgCarrier"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "MsgCarrier is message carrier SDK."
   spec.homepage     = "https://github.com/FodLab/msgCarrier"
   spec.license      = { :type => 'MIT', :file => "#{spec.version}/LICENSE" }
